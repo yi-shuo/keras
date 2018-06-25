@@ -1,0 +1,13 @@
+git init
+
+
+git remote add origin gitpath
+
+
+git fetch
+
+
+git branch master origin/master
+
+
+git checkout master
